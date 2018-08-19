@@ -1,0 +1,11 @@
+ls
+firefox install.rst 
+firefox install.rst~/Documents/0SC/certbot/docs $quit
+ls
+cd ~/Documents/R3DDY/Chennai_bus/
+x scrape_info.py 
+python3 scrape_info.py 
+ls
+less routes_list.json 
+ls
+less sensongs_links.csv

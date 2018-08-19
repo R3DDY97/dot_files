@@ -1,0 +1,22 @@
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-enabled-themes (quote (sanityinc-tomorrow-bright)))
+ '(custom-safe-themes
+   (quote
+    ("1b8d67b43ff1723960eb5e0cba512a2c7a2ad544ddb2533a90101fd1852b426e" default)))
+ '(org-agenda-files
+   (quote
+    ("~/1337/Back_up/azeem.org" "~/Documents/AK0D0/0RG/Akodo_log.org" "~/Documents/Programming/Python/Pandas/learn.org" "~/Documents/Programming/Python/Pandas/Data_Structures.org")))
+ '(package-selected-packages
+   (quote
+    (lsp-javascript-flow lsp-css lsp-html lsp-python lsp-rust lsp-ui lsp-mode company-lsp fuzzy ess-view r-autoyas ess-smart-equals ess-smart-underscore ess-R-data-view ess vdiff-magit emmet-mode django-snippets yasnippet-snippets jinja2-mode flycheck-pyflakes yari yard-mode yagist writeroom-mode whole-line-or-region whitespace-cleanup-mode wgrep vlf vc-darcs uptimes unfill undo-tree typescript-mode toml-mode textile-mode tagedit symbol-overlay switch-window sublimity smex smarty-mode slime-company session scratch sass-mode ruby-hash-syntax ruby-compilation rspec-mode robe rg restclient regex-tool rainbow-mode rainbow-delimiters racer python-django py-autopep8 purescript-mode psc-ide projectile-rails prettier-js pip-requirements pdf-tools paredit-everywhere page-break-lines origami org-pomodoro org-cliplink org-bullets nginx-mode move-dup mode-line-bell mmm-mode magithub lua-mode list-unicode-display ledger-mode js-comint ivy-xref ivy-historian ipretty intero impatient-mode immortal-scratch ibuffer-vc httprepl hippie-expand-slime hindent highlight-quoted highlight-escape-sequences helm guide-key goto-gem goto-chg gnuplot gitignore-mode github-clone gitconfig-mode git-timemachine git-messenger git-blamed fullframe flycheck-rust flycheck-package flycheck-ledger flycheck-elm flycheck-color-mode-line flycheck-clojure expand-region exec-path-from-shell erlang elpy elm-mode elisp-slime-nav elein dsvn drag-stuff dotenv-mode dockerfile-mode docker-compose-mode docker disable-mouse direx diredfl dimmer diminish diff-hl dhall-mode default-text-scale darcsum daemons csv-mode css-eldoc counsel company-terraform company-quickhelp company-php company-jedi company-anaconda command-log-mode color-theme-sanityinc-tomorrow color-theme-sanityinc-solarized coffee-mode cmd-to-echo cljsbuild-mode cl-lib-highlight cask-mode bundler bug-reference-github browse-kill-ring browse-at-remote better-shell better-defaults benchmark-init beacon avy autopair auto-compile anzu aggressive-indent add-node-modules-path)))
+ '(session-use-package t nil (session)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
