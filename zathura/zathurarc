@@ -1,0 +1,12 @@
+
+
+set selection-clipboard clipboard
+
+set statusbar-basename false
+set window-title-basename false
+
+set statusbar-basename true
+set window-title-basename true
+
+set statusbar-home-tilde true
+set window-title-home-tilde true
